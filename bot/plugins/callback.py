@@ -1602,7 +1602,7 @@ async def cb_about(bot, update: CallbackQuery):
     text+=f"\n<b><i>Bot's Uptime:</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
     text+=f"\n<b><i>Bot Funtion:</i></b> <i>Auto Filter Files</i>\n"
     text+=f"""\n<b><i>Bot Support:</i></b> <a href="https://t.me/coobydoobots">@coobydoobots</a>\n"""
-    text+="""\n<b><i>Source Code:</i></b> <a href="https://github.com/SHASHIK94/Adv-Auto-Filter-Bot-V2">Source</a>"""
+    text+="""\n<b><i>Source Code:</i></b> <a href="https://t.me/coobydoobots">Source</a>"""
 
     buttons = [
         [
@@ -1640,7 +1640,7 @@ async def callback_data(bot, update: CallbackQuery):
     if query_data == "start":
         buttons = [[
             InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/invisible_einstein'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://github.com/SHASHIK94/Adv-Auto-Filter-Bot-V2')
+            InlineKeyboardButton('Source Code 🧾', url ='https://t.me/coobydoobots')
         ],[
             InlineKeyboardButton('Support 🛠', url='https://t.me/coobydoobots')
         ],[
