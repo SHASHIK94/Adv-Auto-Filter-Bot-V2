@@ -7,10 +7,9 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
-For More Details Click Help Button Below..
-@CrazyBotsz
+𝗔𝗺 𝗝𝘂𝘀𝘁 𝗔 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗔𝘂𝘁𝗼 𝗙𝗶𝗹𝘁𝗲𝗿 𝗕𝗼𝘁 𝗜𝗻 𝗦𝗿𝗶𝗹𝗮𝗻𝗸𝗮 🇱🇰. 𝗝𝘂𝘀𝘁 𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽,𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗔𝗻𝗱 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗧𝗵𝗲𝗺 𝗔𝗻𝗱 𝗦𝗲𝗲 𝗠𝘆 𝗠𝗮𝗴𝗶𝗰𝗮𝗹 𝗙𝗶𝗹𝘁𝗲𝗿𝗶𝗻𝗴 🔥.
+𝗙𝗼𝗿 𝗠𝗼𝗿𝗲 𝗗𝗲𝘁𝗮𝗶𝗹𝘀 𝗖𝗹𝗶𝗰𝗸 𝗛𝗲𝗹𝗽 𝗕𝘂𝘁𝘁𝗼𝗻 𝗕𝗲𝗹𝗹𝗼𝘄. 💥👇🏼
+@coobydoobots
 </i>"""    
     
     HELP_TEXT = """
@@ -43,16 +42,16 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@coobydoobots
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> ᴄᴏᴏʙʏ ᴅᴏᴏ 𝗳𝗶𝗹𝘁𝗲𝗿 |𝗧𝗠🇱🇰</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/invisible_einstein">𝗜𝗻𝘃𝗶𝘀𝗶𝗯𝗹𝗲 𝗘𝗶𝗻𝘀𝘁𝗲𝗶𝗻</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://t.me/coobydoobots">Locked</a></i>
 """
