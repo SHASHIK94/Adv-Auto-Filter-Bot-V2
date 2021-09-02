@@ -2,7 +2,7 @@ import os
 import motor.motor_asyncio # pylint: disable=import-error
 from bot import DB_URI
 
-DB_NAME = os.environ.get("DB_NAME", "ᴄᴏᴏʙʏ ᴅᴏᴏ 𝗳𝗶𝗹𝘁𝗲𝗿 |𝗧𝗠🇱🇰")
+DB_NAME = os.environ.get("DB_NAME", "Adv_Auto_Filter")
 
 class Database:
 
